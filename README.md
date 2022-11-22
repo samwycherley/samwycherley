@@ -5,4 +5,4 @@ I am a PhD student in the Department of Economics at Stanford University. Intere
 I can be reached at svpwych [at) stanford (dot) edu
 
 Recent working papers:
-- "Cointegration with Occasionally Binding Constraints", November 2022 (with James A. Duffy and Sophocles Mavroeidis). Available at https://arxiv.org/abs/2211.09604
+- "Cointegration with Occasionally Binding Constraints", November 2022 (with James A. Duffy and Sophocles Mavroeidis). Available at: https://arxiv.org/abs/2211.09604
