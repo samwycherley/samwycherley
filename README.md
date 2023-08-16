@@ -4,10 +4,9 @@ I am a PhD student in the Department of Economics at Stanford University. Intere
 
 I can be reached at wycherley [at) stanford (dot) edu
 
-Recent working papers:
-- "Cointegration with Occasionally Binding Constraints", July 2023 (with James A. Duffy and Sophocles Mavroeidis). Available at: https://arxiv.org/abs/2211.09604.
-- "Stationarity with Occasionally Binding Constraints", July 2023 (with James A. Duffy and Sophocles Mavroeidis). Available at: https://arxiv.org/abs/2307.06190. Code at: https://github.com/samwycherley/ThresholdStability.jl
+## Recent working papers
+- ["Cointegration with Occasionally Binding Constraints"](https://arxiv.org/abs/2211.09604), July 2023 (with James A. Duffy and Sophocles Mavroeidis).
+- ["Stationarity with Occasionally Binding Constraints"](https://arxiv.org/abs/2307.06190), July 2023 (with James A. Duffy and Sophocles Mavroeidis). [Code](https://github.com/samwycherley/ThresholdStability.jl).
 
-
-Some notes on game theory:
-- https://github.com/samwycherley/theory-notes
+## Resources
+I have a collection of notes on game theory, available [here](https://github.com/samwycherley/theory-notes).
