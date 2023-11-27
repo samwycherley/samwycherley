@@ -10,3 +10,5 @@ I can be reached at wycherley [at) stanford (dot) edu
 
 ## Resources
 I have a collection of notes on game theory, available [here](https://github.com/samwycherley/theory-notes).
+
+I also have some very brief notes on some continuous dynamic asset pricing technicalities, [here](https://github.com/samwycherley/finance-notes).
