@@ -1,6 +1,6 @@
 # Sam Wycherley
 
-I am a PhD student in the Department of Economics at Stanford University. Interested in how humans behave.
+I am a PhD student in the Department of Economics at Stanford University.
 
 I can be reached at wycherley [at) stanford (dot) edu
 
