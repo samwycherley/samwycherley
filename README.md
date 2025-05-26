@@ -5,8 +5,8 @@ I am a PhD student in the Department of Economics at Stanford University. My res
 I can be reached at wycherley [at) stanford (dot) edu
 
 ## Recent working papers
-- ["Cointegration with Occasionally Binding Constraints"](https://arxiv.org/abs/2211.09604), July 2023 (with James A. Duffy and Sophocles Mavroeidis). _Conditionally accepted at Journal of Econometrics_.
-- ["Stationarity with Occasionally Binding Constraints"](https://arxiv.org/abs/2307.06190), July 2023 (with James A. Duffy and Sophocles Mavroeidis).
+- ["Cointegration with Occasionally Binding Constraints"](https://arxiv.org/abs/2211.09604), February 2025 (with James A. Duffy and Sophocles Mavroeidis). _Conditionally accepted at Journal of Econometrics_.
+- ["Stationarity with Occasionally Binding Constraints"](https://arxiv.org/abs/2307.06190), February 2025 (with James A. Duffy and Sophocles Mavroeidis).
 
 ## Packages
 - [ThresholdStability.jl](https://github.com/samwycherley/ThresholdStability.jl) is a package implementing numerical techniques to determine the stability of discrete-time TVAR models. See [Duffy, Mavroeidis and Wycherley (2023)](https://arxiv.org/abs/2307.06190). There is also a [version available for R](https://github.com/samwycherley/thresholdr).
