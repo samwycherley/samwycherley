@@ -1,6 +1,6 @@
 # Sam Wycherley
 
-I am a PhD student in the Department of Economics at Stanford University. My research is centred around finance.
+I am a PhD student in the Department of Economics at Stanford University. My research is centred around macro-finance.
 
 I can be reached at wycherley [at) stanford (dot) edu
 
