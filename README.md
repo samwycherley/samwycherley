@@ -5,7 +5,7 @@ I am a PhD student in the Department of Economics at Stanford University. My res
 I can be reached at wycherley [at) stanford (dot) edu
 
 ## Publications
-- "Cointegration with Occasionally Binding Constraints", in press, _Journal of Econometrics_ (with James A. Duffy and Sophocles Mavroeidis). [Manuscript](https://arxiv.org/abs/2211.09604).
+- ["Cointegration with Occasionally Binding Constraints"](https://doi.org/10.1016/j.jeconom.2025.106103), _Journal of Econometrics_, 2025, Vol. 252:A.
 
 ## Recent working papers
 - ["Stationarity with Occasionally Binding Constraints"](https://arxiv.org/abs/2307.06190), February 2025 (with James A. Duffy and Sophocles Mavroeidis).
