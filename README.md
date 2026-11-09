@@ -8,7 +8,7 @@ I can be reached at wycherley [at) stanford (dot) edu
 - ["Cointegration with Occasionally Binding Constraints"](https://doi.org/10.1016/j.jeconom.2025.106103), _Journal of Econometrics_, 2025, Vol. 252:A.
 
 ## Recent working papers
-- ["Stationarity with Occasionally Binding Constraints"](https://arxiv.org/abs/2307.06190), February 2025 (with James A. Duffy and Sophocles Mavroeidis).
+- ["Stationarity with Occasionally Binding Constraints"](https://arxiv.org/abs/2307.06190), February 2025 (with James A. Duffy and Sophocles Mavroeidis). Accepted, _Journal of Time Series Analysis_.
 
 ## Packages
 - [ThresholdStability.jl](https://github.com/samwycherley/ThresholdStability.jl) is a package implementing numerical techniques to determine the stability of discrete-time TVAR models. See [Duffy, Mavroeidis and Wycherley (2023)](https://arxiv.org/abs/2307.06190). There is also a [version available for R](https://github.com/samwycherley/thresholdr).
